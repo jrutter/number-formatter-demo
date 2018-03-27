@@ -3,6 +3,8 @@ Number Formatter Demo
 
 A small library that adds commas to numbers
 
+[![Build Status](https://travis-ci.org/jrutter/number-formatter-demo.svg?branch=master)](https://travis-ci.org/jrutter/number-formatter-demo)
+
 ## Installation
 
   `npm install @jrutter/number-formatter`
